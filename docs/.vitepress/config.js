@@ -14,7 +14,7 @@ export default defineConfig({
       {
         text: 'Menu',
         items: [
-          { text: 'Study Notes', link:'/studynote/CPU And MESI/' },
+          { text: 'Study Notes', link:'/studynote/MESI/' },
           { text: 'Interview materials', link:'/item-2' },
           { text: 'Life', link:'/item-3' }
         ]
@@ -30,7 +30,7 @@ export default defineConfig({
             items: [
               {
                 text: 'CPU 缓存一致性与 MESI 协议',
-                link: '/studynote/CPU And MESI/'
+                link: '/studynote/MESI/'
               }
             ]
           }
