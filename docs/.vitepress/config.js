@@ -31,7 +31,11 @@ export default defineConfig({
               {
                 text: 'CPU 缓存一致性与 MESI 协议',
                 link: '/studynote/MESI/'
-              }
+              },
+              {
+                text: 'volatile详解',
+                link: '/studynote/volatile/'
+              },
             ]
           }
         ],
